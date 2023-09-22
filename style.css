@@ -257,6 +257,7 @@ transform: translateY(-10px);
   overflow: hidden;
 }
 .work img{
+  height: 800px;
   width: 100%;
   border-radius: 10px;
   display: block;
